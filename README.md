@@ -48,25 +48,15 @@ Copy
 Edit
 sudo apt install inotify-tools
 🌐 Cloudflared
-bash
-Copy
-Edit
 sudo apt install cloudflared
 🌐 LocalXpose
 Download .deb from https://localxpose.io
 
 Install:
-
-bash
-Copy
-Edit
 sudo dpkg -i loclx-linux-amd64.deb
 📸 How to Use
-bash
-Copy
-Edit
 chmod +x snap.sh
-./snap.sh
+./snapsploit.sh
 Select a port forwarding method (Cloudflared / LocalXpose)
 
 Get a phishing link
