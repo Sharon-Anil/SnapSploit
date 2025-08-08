@@ -43,9 +43,6 @@ pip install -r requirements.txt
 
 🧠 Optional: Install Tools
 📦 Inotify Tools
-bash
-Copy
-Edit
 sudo apt install inotify-tools
 🌐 Cloudflared
 sudo apt install cloudflared
@@ -66,9 +63,7 @@ Send it to the victim
 When they allow camera access, photos will be auto-saved in captured/
 
 📂 Folder Structure
-bash
-Copy
-Edit
+
 SnapSploit/
 ├── app.py               # Flask backend
 ├── index.html           # Webcam capture frontend
